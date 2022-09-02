@@ -12,6 +12,4 @@ the downfall of capitalism!
 
 <a href="https://twitter.com/sherubthakur">                   <img align="left" alt="Sherub's Twitter"   height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />  </a>
 <a href="https://www.linkedin.com/in/sherub-thakur-695175b1/"><img align="left" alt="Sherub's LinkdeIN"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
-<a href="https://www.instagram.com/sherub.thakur/">           <img align="left" alt="Sherub's Instagram" height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.reddit.com/user/sherubthakur/">          <img align="left" alt="Sherub's Reddit"    height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />   </a>
-
